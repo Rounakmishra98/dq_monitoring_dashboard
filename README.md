@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Quality Monitoring Dashboard
 
 Built by Rounak Mishra | Data Quality Analyst | CSIR-IITR
@@ -32,3 +33,7 @@ Rounak Mishra
 Data Quality and Analytics Professional
 4+ years at CSIR-IITR
 Email: mishrarounak98@gmail.com
+=======
+# dq_monitoring_dashboard
+Data Quality Monitoring Dashboard by Rounak Mishra
+>>>>>>> d52a2ccc9e0fb2bc6136cefa37336f24b60cc758
